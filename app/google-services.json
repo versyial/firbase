@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141415061353",
+    "project_id": "gajadijadianjr",
+    "storage_bucket": "gajadijadianjr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141415061353:android:0f07e6aa67779c907ecff8",
+        "android_client_info": {
+          "package_name": "id.ac.binus.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141415061353-6vt2vrej071comhpmpvpb692jqp60su4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAy2eHtXkgGY1d9pmIXgz7IYHcEyhQ0bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141415061353-6vt2vrej071comhpmpvpb692jqp60su4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
